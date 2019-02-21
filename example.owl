@@ -7,7 +7,8 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/example.owl">
-        <owl:versionInfo>Development Version</owl:versionInfo>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/example/release/2019-02-21/example.owl"/>
+        <owl:versionInfo>Release 2019-02-21</owl:versionInfo>
     </owl:Ontology>
     
 
